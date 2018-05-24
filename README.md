@@ -14,9 +14,9 @@ By default, the inventory formspec will be displayed if the node has both metada
 
 Yes. Any inventory.
 
-[Gold Chest]
+![Gold Chest](https://github.com/ChimneySwift/csm_difs/blob/master/screenshots/gold_chest.PNG?raw=true)
 
-[Infinite Chest]
+![Infinite Chest](https://github.com/ChimneySwift/csm_difs/blob/master/screenshots/inf_chest.PNG?raw=true)
 
 ## BUT WHUT ABOUT SECURITY U HACKOR!?!!1!?!
 
