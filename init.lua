@@ -230,7 +230,7 @@ end)
 
 minetest.register_on_punchnode(function(pos, node)
     local meta = minetest.get_meta(pos)
-    local tool = minetest.get_wielded_item()
+    local tool = minetest.localplayer:get_wielded_item()
     if tool:get_name() == "default:stick" then
         difs.settings.pos = pos
         local success, fs = difs.generate_difs(meta, "nodemeta:"..pos.x..","..pos.y..","..pos.z)
